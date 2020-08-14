@@ -14,7 +14,7 @@ let message;
 //     message = ACCESS_IS_ALLOWED;
 //     break;
 
-//   case 'null':
+//   case null:
 //     message = CANCELED_BY_USER;
 //     break;
 

@@ -4,7 +4,7 @@ const message =
   invoice <= stock
     ? 'Заказ оформлен, с вами свяжется менеджер'
     : 'На складе недостаточно товаров!';
-// Write code under this line
+
 // if (invoice <= stock) {
 //   message = 'Заказ оформлен, с вами свяжется менеджер';
 // } else {
